@@ -1,12 +1,83 @@
 <h1 align="center">Bienvenue ! 👋 Je suis Guillaume</h1>
 <h3 align="center">Développeur en Architecture Web et Big Data</h3>
 
-- 🌱 Actuellement je me forme sur **Laravel et ReactJS**
-
 - 📝 Visiter mon site web ! [https://dominici.dev](https://dominici.dev)
 
 - 📫 Me contacter : **dominici.guillaume@gmail.com**
 
+<hr>
 
-<h3 align="left">Mes Langages & Outils :</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+<h3 align="left">Back-End :</h3>
+
+<p>
+<img alt="PHP" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white&logoWidth=20" />
+<img alt="Symfony" src="https://img.shields.io/badge/symfony-000000.svg?&style=for-the-badge&logo=symfony&logoColor=white&logoWidth=20" />
+<img alt="Codeigniter" src="https://img.shields.io/badge/codeigniter-ffffff.svg?&style=for-the-badge&logo=codeigniter&logoColor=FF2D20&logoWidth=20" />
+<img alt="Python" src="https://img.shields.io/badge/python-ffffff.svg?&style=for-the-badge&logo=python&logoColor=FF2D20&logoWidth=20" />
+</p>
+
+<hr>
+
+<p>
+<h3 align="left">Front-End :</h3>
+<img alt="HTML" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&logoWidth=20" />
+<img alt="CSS" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&logoWidth=20" />
+<img alt="Javascript" src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoWidth=20" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=20" />
+<img alt="JQuery" src="https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white&logoWidth=20" />
+</p>
+
+<hr>
+
+<h3 align="left">Versionning :</h3>
+<p>
+<img alt="Git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white&logoWidth=20" />
+<img alt="Github" src="https://img.shields.io/badge/github-100000.svg?&style=for-the-badge&logo=github&logoColor=white&logoWidth=20" />
+</p>
+
+<hr>
+
+<h3 align="left">Database :</h3>
+<p>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-316192.svg?&style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20" />
+</p>
+
+<hr>
+
+<h3 align="left">Testing :</h3>
+<p>
+<img alt="Cypress" src="https://img.shields.io/badge/cypress-316192.svg?&style=for-the-badge&logo=cypress&logoColor=white&logoWidth=20" />
+</p>
+
+<hr>
+
+<h3 align="left">Devops :</h3>
+<p>
+<img alt="Docker" src="https://img.shields.io/badge/docker-316192.svg?&style=for-the-badge&logo=docker&logoColor=white&logoWidth=20" />
+<img alt="CircleCi" src="https://img.shields.io/badge/circleci-316192.svg?&style=for-the-badge&logo=circleci&logoColor=white&logoWidth=20" />
+</p>
+
+<hr>
+
+<h3>In Progress :</h3>
+<p>
+<img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20" />
+</p>
+</p>
+
+<hr>
+
+<h3>Environnement :</h3>
+<p>
+<img alt="VSCode" src="https://img.shields.io/badge/vscode-E95420.svg?&style=for-the-badge&logo=vscode&logoColor=white&logoWidth=20" />
+<img alt="Atom" src="https://img.shields.io/badge/atom-E95420.svg?&style=for-the-badge&logo=atom&logoColor=white&logoWidth=20" />
+<img alt="Postman" src="https://img.shields.io/badge/postman-E95420.svg?&style=for-the-badge&logo=postman&logoColor=white&logoWidth=20" />
+</p>
+
+<hr>
+
+<h2>Réseaux :</h2>
+<p>
+  <a href="https://www.linkedin.com/in/guillaume-dominici-9a5a3a164/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+
