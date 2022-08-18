@@ -57,6 +57,8 @@
 <img alt="VSCode" src="https://img.shields.io/badge/visualstudio-0083ca.svg?&style=for-the-badge&logo=visualstudio&logoColor=white&logoWidth=20" />
 <img alt="Atom" src="https://img.shields.io/badge/atom-white.svg?&style=for-the-badge&logo=atom&logoColor=12a271&logoWidth=20" />
 <img alt="Postman" src="https://img.shields.io/badge/postman-E95420.svg?&style=for-the-badge&logo=postman&logoColor=white&logoWidth=20" />
+<img alt="Deezer" src="https://img.shields.io/badge/deezer-000555.svg?&style=for-the-badge&logo=deezer&logoColor=white&logoWidth=20" />
+<img alt="Jupyter" src="https://img.shields.io/badge/jupyter-eb7325.svg?&style=for-the-badge&logo=jupyter&logoColor=white&logoWidth=20" />
 </p>
 
 <hr>
