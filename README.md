@@ -7,8 +7,6 @@
 - 📫 Me contacter : **dominici.guillaume@gmail.com**
 <br>
 
-<hr>
-
 <h2 align="left">Back-End :</h2>
 <p>
 <img alt="PHP" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white&logoWidth=20" />
