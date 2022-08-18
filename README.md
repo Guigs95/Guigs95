@@ -55,7 +55,7 @@
 <h3>Environnements :</h3>
 <p>
 <img alt="VSCode" src="https://img.shields.io/badge/visualstudio-0083ca.svg?&style=for-the-badge&logo=visualstudio&logoColor=white&logoWidth=20" />
-<img alt="Atom" src="https://img.shields.io/badge/atom-white.svg?&style=for-the-badge&logo=atom&logoColor=8dca94&logoWidth=20" />
+<img alt="Atom" src="https://img.shields.io/badge/atom-white.svg?&style=for-the-badge&logo=atom&logoColor=12a271&logoWidth=20" />
 <img alt="Postman" src="https://img.shields.io/badge/postman-E95420.svg?&style=for-the-badge&logo=postman&logoColor=white&logoWidth=20" />
 </p>
 
