@@ -1,13 +1,12 @@
 <h1 align="center">Bienvenue ! 👋 Je suis Guillaume</h1>
 <h3 align="center">Développeur en Architecture Web et Big Data</h3>
 <br>
-<br>
 
 - 📝 Visiter mon site web ! [https://dominici.dev](https://dominici.dev)
 
 - 📫 Me contacter : **dominici.guillaume@gmail.com**
 <br>
-<br>
+
 <hr>
 
 <h2 align="left">Back-End :</h2>
